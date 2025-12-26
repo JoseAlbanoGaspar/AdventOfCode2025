@@ -2,4 +2,4 @@
 
 Here you can find my solutions to the advent of code 2025 edition.
 
-Merry Christmas
+Merry Christmas (oh no, a typo on my commit message :-( )
